@@ -1,0 +1,33 @@
+
+#----------#
+# WEB DATA #
+#----------#
+# Source:
+# https://stackoverflow.com/questions/23098757/using-python-and-urllib-to-get-data-from-yahoo-finance
+# https://learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/
+# https://github.com/lukaszbanasiak/yahoo-finance
+# NOTE: Google finance and yahoo finance no longer allow for data mining.
+# All thos APIs are broken. I need to find an alternative database.
+
+# Alternatives to Yahoo and Google
+# https://github.com/alpacahq/pymarketstore
+# https://www.wessa.net/worldstocksdata.wasp
+# https://www.quandl.com/ --- PAID option
+# Note: When you get down to it, all those sources require a paid subscription
+
+# Here is the best list I could find of open databases:
+# https://quant.stackexchange.com/questions/141/what-data-sources-are-available-online
+
+# With this for US securities:
+# https://www.sec.gov/developer
+
+# With this for the US INDEX prices:
+# https://fred.stlouisfed.org/
+# https://research.stlouisfed.org/docs/api/fred/
+# https://research.stlouisfed.org/docs/api/fred/series_observations.html
+# https://api.stlouisfed.org/fred/series/observations?series_id=GNPCA&api_key=abcdefghijklmnopqrstuvwxyz123456&file_type=json
+# My API key: 0e2638651bd15455fa8768e6d80234b8
+
+# Other source of information
+# https://www.quantshare.com/sa-620-10-new-ways-to-download-historical-stock-quotes-for-free
+# https://www.alphavantage.co/documentation/
